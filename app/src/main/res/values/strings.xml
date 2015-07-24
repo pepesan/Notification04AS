@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notification04AS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lanza">Lanza Not.</string>
+    <string name="cambia">Cambia Notif.</string>
+    <string name="borra">Borra notificación</string>
+
+</resources>
